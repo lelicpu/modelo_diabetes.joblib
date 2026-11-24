@@ -1,0 +1,7 @@
+# Dependencias de la aplicación de Streamlit (app.py). Versiones con las que se entrenó y probó el modelo.
+# scikit-learn debe coincidir con la versión que generó modelo_diabetes.joblib.
+streamlit>=1.40
+scikit-learn==1.9.1
+joblib>=1.4
+numpy>=2.0
+pandas>=2.2

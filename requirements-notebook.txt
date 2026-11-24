@@ -1,0 +1,8 @@
+# Dependencias para ejecutar el notebook completo y las pruebas
+-r requirements.txt
+matplotlib>=3.8
+seaborn>=0.13
+imbalanced-learn>=0.12
+jupyter
+nbconvert
+pytest

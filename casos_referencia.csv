@@ -1,0 +1,4 @@
+caso,pregnancies,glucose,bloodpressure,skinthickness,insulin,bmi,diabetes_pedigree_function,age,indice_original,probabilidad_notebook,clase_notebook,valor_real
+Perfil con diabetes detectada (VP),8,105.0,100.0,36.0,,43.3,0.239,45,387,0.5751429196898518,1,1
+Perfil sin diabetes bien clasificado (VN),10,68.0,106.0,23.0,49.0,35.5,0.285,47,672,0.28466098029714926,0,0
+Perfil con insulina y pliegue ausentes,7,159.0,64.0,,,27.4,0.294,40,44,0.6776078271797082,1,0
